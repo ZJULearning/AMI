@@ -12,9 +12,7 @@ pip install -r requirements.opt.txt
 
 ## Data
 
-We support dialogue generation and neural machine translation datasets, and the datasets we used in the paper are [PersonaChat](https://github.com/facebookresearch/
-ParlAI/tree/master/projects/personachat) and [WMT translation dataset](http://www.statmt.org/wmt14/
-translation-task.html).
+We support dialogue generation and neural machine translation datasets, and the datasets we used in the paper are [PersonaChat](https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat) and [WMT translation dataset](http://www.statmt.org/wmt14/translation-task.html).
 
 ## Preprocessing
 
